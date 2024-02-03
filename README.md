@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Dannyllen
+- 👀 I’m interested in sports, music and videogames.
+- 🌱 I’m currently learning python, soon learning java
+- 📫 How to reach me: You could write me a message or email.
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I enter my career without even knowing nothing about coding
